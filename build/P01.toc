@@ -1,0 +1,12 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Introducción}{3}{chapter*.3}%
+\contentsline {subsection}{Sistemas de Primer Orden}{3}{section*.4}%
+\contentsline {subsection}{Sistemas de Segundo Orden}{3}{equation.0.0.2}%
+\contentsline {section}{Desarrollo Experimental}{3}{equation.0.0.3}%
+\contentsline {subsection}{Experimento 1: Medición de la resistencia interna del generador, $r_g$.}{3}{section*.5}%
+\contentsline {subsection}{Experimento 2: Medición de la inductancia del inductor.}{3}{figure.caption.6}%
+\contentsline {subsection}{Experimento 3: Capacitancia de un Capacitor}{4}{Item.2}%
+\contentsline {subsection}{Experimento 4: Sistema eléctrico de segundo orden}{5}{equation.0.0.4}%
+\contentsline {section}{Conclusión}{5}{equation.0.0.6}%
+\contentsline {section}{Bibliografía}{5}{equation.0.0.6}%
+\contentsfinish 
